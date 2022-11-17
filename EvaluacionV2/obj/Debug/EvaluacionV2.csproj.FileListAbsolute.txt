@@ -1,0 +1,8 @@
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\bin\Debug\EvaluacionV2.exe.config
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\bin\Debug\EvaluacionV2.exe
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\bin\Debug\EvaluacionV2.pdb
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\obj\Debug\EvaluacionV2.csproj.AssemblyReference.cache
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\obj\Debug\EvaluacionV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\obj\Debug\EvaluacionV2.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\obj\Debug\EvaluacionV2.exe
+C:\Users\OMEN\source\repos\EvaluacionV2\EvaluacionV2\obj\Debug\EvaluacionV2.pdb
